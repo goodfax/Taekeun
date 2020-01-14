@@ -2,7 +2,8 @@
 # https://github.com/Kyubyong/wordvectors
 import gensim
 
-model = gensim.models.Word2Vec.load('./model/kyubyong/ko.bin')
+# model = gensim.models.Word2Vec.load('./model/kyubyong/ko.bin')
+model = gensim.models.Word2Vec.load('./model/taekeun/ko.bin')
 
 # 해당단어와 유사한 단어출력
 sbw = model.similar_by_word('컴퓨터')
