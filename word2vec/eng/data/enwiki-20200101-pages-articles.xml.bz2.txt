@@ -1,0 +1,5 @@
+download link
+https://dumps.wikimedia.org/enwiki/20200101/
+
+2020-01-03 00:22:16 done Recombine articles, templates, media/file descriptions, and primary meta-pages.
+enwiki-20200101-pages-articles.xml.bz2 15.6 GB

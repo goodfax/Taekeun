@@ -1,0 +1,5 @@
+download link
+https://dumps.wikimedia.org/kowiki/20200101/
+
+2020-01-02 20:18:49 done Articles, templates, media/file descriptions, and primary meta-pages.
+kowiki-20200101-pages-articles.xml.bz2 621.5 MB
