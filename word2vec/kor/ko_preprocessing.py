@@ -21,3 +21,4 @@ with open(in_f, 'r', encoding='utf-8') as rf:
             print('Preprocessed ' + str(i) + ' articles')
     output.close()
     print('Preprocessing complete!')
+
